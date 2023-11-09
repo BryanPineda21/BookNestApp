@@ -72,6 +72,5 @@
 ## Wireframes
 ![IMG_7766](https://github.com/BryanPineda21/App-project-overview/assets/109675212/9f889c82-6c52-49e0-ba60-c88a8d8ef386)
 
-![IMG_7766](https://github.com/BryanPineda21/App-project-overview/assets/109675212/50561b10-fef9-48ed-94be-290bf5479b99)
 
 
