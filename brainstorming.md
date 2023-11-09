@@ -56,4 +56,4 @@
     - **Scope:** V1 would allow users to access a list of books from an api and can add to favorites. V2 will be a maps api of nearby bookstores. V3 would allow for users to leave notes on the books they are currently reading.  
    
 ## Final APP IDEA: 
-- **Idea: ** Educational related App (My Book library)
+- **Idea:** Educational related App (My Book library)
