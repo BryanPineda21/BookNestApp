@@ -63,7 +63,7 @@
 [x] **Registration Screen**
 => Home
 
-[ ] **Search Screeen**
+[ ] **Search Screen**
 => None
 
 [ ] **Saved book list**
