@@ -73,7 +73,7 @@
 ![IMG_7766](https://github.com/BryanPineda21/App-project-overview/assets/109675212/9f889c82-6c52-49e0-ba60-c88a8d8ef386)
 
 ## App Walkthrough
-<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM1c3huMnFsdWtoOXh5ejRsbnloOWk1aWhhMTl6cDRxZmdoam52ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bPGFFWjH4kDB9qqKL/giphy.gif" alt = "videoWalkThrough"/>
+<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM1c3huMnFsdWtoOXh5ejRsbnloOWk1aWhhMTl6cDRxZmdoam52ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bPGFFWjH4kDB9qqKL/giphy.gif" alt = "videoWalkThrough"/> ** Using Firebase for User Authentication
 
 
 ## Final App project 
