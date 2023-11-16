@@ -23,7 +23,7 @@
 - **Required Must-have Stories:**
 - User can login
 - User can save searched books
-- User can create descriptions about the book
+- User can see descriptions about the book
 - User can search for books
 
 - **Optional Nice-to-have Stories:**
