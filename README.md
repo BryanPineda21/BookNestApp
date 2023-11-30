@@ -75,7 +75,7 @@
 ## App Walkthrough
 <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM1c3huMnFsdWtoOXh5ejRsbnloOWk1aWhhMTl6cDRxZmdoam52ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bPGFFWjH4kDB9qqKL/giphy.gif" alt = "videoWalkThrough"/>
 
-## Final App project 
+## Current Stage of App project 
 <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdtcjBvZng2d3IzZWEyaWwzZ3RvemVqd285dWR6cnZoNDVtbGFmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOrEcYoF0qi0yKDVfg/giphy.gif" alt = "videoWalkThrough"/>
 
 
