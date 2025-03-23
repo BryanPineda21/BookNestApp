@@ -1,78 +1,84 @@
-# BookNest App
+# 📚 BookNest App
 
-## Overview:
-
-- **Description:** Allows students to search for books of their liking and save them for future readings.With this app students who spot books in their library can search it up on the app and can add it to their list of unread books. This allows students to save time trying to recall the books they wanted to read
-
-- **Category:** Education
-
-- **Mobile:** Mobile is essential for keeping track of books that the User would want to read in the future and refer back to it. Readers can also make notes of the book.
-    
-- **Story:** Creates a better way to keep track of read books and also allows to regain info about to book with the notes user has made. 
-
-- **Market:** Any indivudual who wants to start reading or any readers can utilize this app. For monetization sponsorhips/book promotions could be enforced. 
-    
-- **Habit:** readers are constantly reading new books and with this app they will be able to track their list of books read. 
-
-- **Scope:** V1 would allow users to access a list of books from an api and can add to favorites. V2 will be a maps api of nearby bookstores. V3 would allow for users to leave notes on the books they are currently reading.  
-
-## Product Spec:
-
-**1. User Stories (Required and Optional)**
-
-- **Required Must-have Stories:**
-- User can login
-- User can save searched books
-- User can see descriptions about the book
-- User can search for books
-
-- **Optional Nice-to-have Stories:**
-- User can use google maps to look for nearby bookstores
-- User can remove books from their saved list
-
-**2.Screen Archetypes**
-
-#### Login Screen
-- User can login
-
-#### Registration screen
-- User can create a new account
-
-#### Search
-- User can search for books
-- User can save searched books
-
-#### Books Saved screen
-- Users can see their list of saved books
-- Users can tap on the books and see description of the book
+<div align="center">
   
-#### Add description/notes of book screen
-- Users will be able to input notes about the book and save it
+![BookNest Logo](https://img.shields.io/badge/📚-BookNest-blue?style=for-the-badge)
 
-**3. Navigation**
+![Platform](https://img.shields.io/badge/platform-iOS-lightgrey)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-#### Tab Naviagtion (Tab to screen)
- - Home feed
- - search books
- - saved books list
+</div>
 
-#### Flow Navigation (Screen to Screen)
-[x] **Login Screen**
-=> Home
+## 🌟 Overview
 
-[x] **Registration Screen**
-=> Home
+BookNest is a mobile application designed for book enthusiasts and students who want to efficiently manage their reading lists. The app allows users to discover books, save them for future reading, and keep track of their literary journey.
 
-[x] **Search Screen**
-=> None
+### 📱 The Problem We Solve
 
-[x] **Saved book list**
-=> None
+Have you ever spotted an interesting book at a library or bookstore but later forgot about it? BookNest solves this common problem by providing a simple way to search, save, and organize books you want to read.
+
+### 🎯 Key Features
+
+- **Discover Books**: Search a vast database of books across genres
+- **Personal Library**: Save books to your personalized reading list
+- **Book Details**: Access comprehensive information about each book
+- **Reading Notes**: Add personal notes to books you're reading
+- **Tracking**: Keep track of books read and unread
+
+## 📋 Product Specification
+
+### User Stories
+
+#### Core Features
+- ✅ User authentication (login/registration)
+- ✅ Book search functionality
+- ✅ Save books to personal library
+- ✅ View detailed book information
+- ✅ Track reading progress
+
+#### Upcoming Features
+- 🔜 Locate nearby bookstores via Google Maps integration
+- 🔜 Social sharing capabilities
+- 🔜 Advanced note-taking for each book
+- 🔜 Reading statistics and insights
+
+### App Screens
+
+| Screen | Description |
+|--------|-------------|
+| **Login** | User authentication |
+| **Registration** | New account creation |
+| **Home Feed** | Discover new and trending books |
+| **Search** | Find books by title, author, or genre |
+| **Book Details** | View comprehensive book information |
+| **My Library** | Access saved books |
+| **Reading Notes** | Add and view personal notes |
+
+### Navigation Flow
+
+├── Login/Registration
+│   └── Home Feed
+│       ├── Search
+│       │   └── Book Details
+│       └── My Library
+│           └── Book Details
+│               └── Reading Notes
+
+
+## 💻 Technology Stack
+
+- **Frontend**: Swift and SwiftUI
+- **Backend**: Firebase
+- **Authentication**: Firebase Authentication
+- **Database**: Firebase Firestore
+- **API**: Google Books API
+
+
 
 ## Wireframes
 ![IMG_7766](https://github.com/BryanPineda21/App-project-overview/assets/109675212/9f889c82-6c52-49e0-ba60-c88a8d8ef386)
 
-## App Walkthrough
+## 📱 App Walkthrough
 <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM1c3huMnFsdWtoOXh5ejRsbnloOWk1aWhhMTl6cDRxZmdoam52ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bPGFFWjH4kDB9qqKL/giphy.gif" alt = "videoWalkThrough"/>
 
 ## Current Stage of App project 
